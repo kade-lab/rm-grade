@@ -151,8 +151,8 @@ export default function BeforeAfter() {
         {/* REPLACE: /images/ba-helmet-before.jpg and /images/ba-helmet-after.jpg */}
         <div className="mb-12">
           <BeforeAfterSlider
-            beforeSrc="/images/ba-helmet-before.jpg"
-            afterSrc="/images/ba-helmet-after.jpg"
+            beforeSrc="/images/helmet-before.png"
+            afterSrc="/images/helmet-after.png"
             beforeAlt="Helmet on bridge — flat, ungraded"
             afterAlt="Helmet on bridge — RM Grade applied"
             label="Helmet on Bridge"
@@ -165,8 +165,8 @@ export default function BeforeAfter() {
           {/* Maybach */}
           {/* REPLACE: /images/ba-maybach-before.jpg and /images/ba-maybach-after.jpg */}
           <BeforeAfterSlider
-            beforeSrc="/images/ba-maybach-before.jpg"
-            afterSrc="/images/ba-maybach-after.jpg"
+            beforeSrc="/images/maybach-before.png"
+            afterSrc="/images/maybach-after.png"
             beforeAlt="Maybach — flat"
             afterAlt="Maybach — RM Grade"
             label="Maybach"
@@ -176,8 +176,8 @@ export default function BeforeAfter() {
           {/* McLaren Sunset */}
           {/* REPLACE: /images/ba-mclaren-sunset-before.jpg and /images/ba-mclaren-sunset-after.jpg */}
           <BeforeAfterSlider
-            beforeSrc="/images/ba-mclaren-sunset-before.jpg"
-            afterSrc="/images/ba-mclaren-sunset-after.jpg"
+            beforeSrc="/images/mclaren-sunset-before.png"
+            afterSrc="/images/mclaren-sunset-after.png"
             beforeAlt="McLaren sunset — flat"
             afterAlt="McLaren sunset — RM Grade"
             label="McLaren Sunset"
@@ -187,8 +187,8 @@ export default function BeforeAfter() {
           {/* McLaren Garage */}
           {/* REPLACE: /images/ba-mclaren-garage-before.jpg and /images/ba-mclaren-garage-after.jpg */}
           <BeforeAfterSlider
-            beforeSrc="/images/ba-mclaren-garage-before.jpg"
-            afterSrc="/images/ba-mclaren-garage-after.jpg"
+            beforeSrc="/images/mclaren-garage-before.png"
+            afterSrc="/images/mclaren-garage-after.png"
             beforeAlt="McLaren garage — flat"
             afterAlt="McLaren garage — RM Grade"
             label="McLaren Garage"
